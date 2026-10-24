@@ -1,0 +1,5 @@
+# Documentation-only release. Add source code only after a separate rights review.
+*
+!*/
+!*.md
+!.gitignore
